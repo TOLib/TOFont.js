@@ -52,3 +52,6 @@ function TOEmojiPath(rect,x,y,fontSize,image){
     }
 }
 
+export default TOEmojiFont;
+export default TOEmojiGlyph;
+export default TOEmojiPath;

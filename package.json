@@ -1,6 +1,7 @@
 {
   "name": "tofont",
   "version": "1.0.0",
+  "private": true,
   "description": "A tool of text typesetting, support emoji.",
   "main": "index.js",
   "scripts": {
@@ -20,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/TOLib/TOFont.js/issues"
   },
-  "homepage": "https://github.com/TOLib/TOFont.js#readme"
+  "homepage": "https://github.com/TOLib/TOFont.js#readme",
+  "dependencies": {
+    "opentype.js": "^1.1.0"
+  }
 }
