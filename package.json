@@ -1,0 +1,24 @@
+{
+  "name": "tofont",
+  "version": "1.0.0",
+  "description": "A tool of text typesetting, support emoji.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TOLib/TOFont.js.git"
+  },
+  "keywords": [
+    "typesetting",
+    "font",
+    "emoji"
+  ],
+  "author": "Tony.JR",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TOLib/TOFont.js/issues"
+  },
+  "homepage": "https://github.com/TOLib/TOFont.js#readme"
+}
